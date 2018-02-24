@@ -1,4 +1,4 @@
-解析Instagram网站的图片存储架构
+# 解析Instagram网站的图片存储架构
 
 这篇文章主要介绍了Instagram网站的图片存储架构,主要由Python的Django驱动的Instagram后台在PostgreSQL和Redis数据存储的使用方面同样亮点颇多,需要的朋友可以参考下
 
