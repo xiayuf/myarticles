@@ -51,4 +51,4 @@ HighScalability上还根据整理Instagram团队软件工程师Mike Krieger的�
 **5.如果一个办法不行，赶快换下一个**
 
 
-![1.jpg](https://i01picsos.sogoucdn.com/c5966240167a5580)
+![106050092_a8318bbe71_b.jpg | center | 827x620](https://i01picsos.sogoucdn.com/c5966240167a5580 "")
