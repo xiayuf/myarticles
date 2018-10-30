@@ -49,3 +49,5 @@ HighScalability上还根据整理Instagram团队软件工程师Mike Krieger的�
 **4.不要过度优化，或者希望能事先知道站点要扩展，对于一个初创的社交站点而言，没什么扩展性问题是解决不了的**
 
 **5.如果一个办法不行，赶快换下一个**
+
+![](https://i01picsos.sogoucdn.com/c5966240167a5580)
